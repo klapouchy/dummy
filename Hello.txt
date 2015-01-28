@@ -1,7 +1,3 @@
-Hello
-
 Feature4
 
 Test
-
-Hello 2
