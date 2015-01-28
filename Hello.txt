@@ -1,9 +1,3 @@
-Hello
-
 Feature4
 
 Test
-
-Some Text
-
-New Feature
